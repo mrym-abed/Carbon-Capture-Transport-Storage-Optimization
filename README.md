@@ -119,7 +119,7 @@ The complete project also incorporates the other components developed through th
 
 The repository includes:
 
-- `CCTS_Final_Report(1).pdf` – Final technical report covering the mathematical formulation, experiments, results, and conclusions.
+- `CCTS_Final_Report.pdf` – Final technical report covering the mathematical formulation, experiments, results, and conclusions.
 - `CCTS_Q1_Q4_Final Code Notebook.zip` – Complete Jupyter Notebook implementation and the three input instance files.
 
 The notebook contains the Q1–Q4 computational workflow and saved numerical outputs.
